@@ -143,7 +143,7 @@
                         <publisher>
                             <contextUrl>https://sidatks.jfrog.io/artifactory/libs-release/</contextUrl> <!-- The Artifactory URL -->
                             <username>sidatKS</username> <!-- The Artifactory user name -->
-                            <password>KodeSystems101</password> <!-- The Artifactory encrypted password -->
+                            <password>AKCp8ohxW7K6CwX6MriQaJYiy311iKFFEMYQysNdu43PRPAWVD1fQeBkqfwRKF9p8BpVwNJYH</password> <!-- The Artifactory encrypted password -->
                             <repoKey>libs-release-local</repoKey> <!-- The repository key to which the artifacts should be deployed -->
                             <snapshotRepoKey>libs-snapshot-local</snapshotRepoKey> <!-- The snapshot repository key - Optional -->
                         </publisher>
